@@ -1,3 +1,6 @@
+>[!CAUTION]
+>This repository is no longer maintained. Please refer to [OpenText-Forensic-Equipment](https://github.com/MicroFocus/OpenText-Forensic-Equipment) for the latest information.
+
 # OpenText Tree Hashing for forensic images
 
 This repository contains the full tree hashing specification in use by OpenText
@@ -29,3 +32,4 @@ tree hashing. For each file format it should have an evidence file for each
 supported block size, and every combination of supported hashes. It also
 includes one larger sample containing multiple sector table links. The expected
 final root hash and all intermediate CV's are embedded in the image files.
+
